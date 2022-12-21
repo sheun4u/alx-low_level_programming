@@ -1,1 +1,1 @@
-I am learning C 
+ Variable if else and while 
