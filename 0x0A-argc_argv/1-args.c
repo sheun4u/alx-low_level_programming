@@ -8,7 +8,6 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void) { return 0; }
 int main(int argc, char *argv[])
 {
     (void)argv; /*Ignore argv*/

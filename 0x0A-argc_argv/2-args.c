@@ -9,8 +9,7 @@
  * Return: Always 0 (Success)
  */
 
-int main(int argc, char *argv[])
-{
+int main(int argc, char *argv[]) {
 
     /*Declaring variables*/
     int count = 0;
@@ -21,6 +20,8 @@ int main(int argc, char *argv[])
         while (count < argc)
         {
             printf("%s\n", argv[count]);
+	  
         }
+	
     }
 }
