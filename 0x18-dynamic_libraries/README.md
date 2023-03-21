@@ -1,1 +1,1 @@
-Solution to dynamic tasks
+Solution to Dynamic library in  C programing 
